@@ -34,7 +34,7 @@ Projects which previously launched a token could donate a portion of the tokens 
 |:-------:| ------------:| -----------:| -------------:|
 | **SUM** |  $48,471,770 | $96,943,539 |  $145,415,309 |
 
-Already we can see the significant benefit these donations would have. For these scenarios, we include 150 members on the split contract plus a 4 year vesting period.
+Already we can see the significant benefit these donations would have. For these scenarios, we include 150 members on the split contract plus a 4-year vesting period.
 
 ![](https://i.imgur.com/i3xI4bu.png)
 
