@@ -1,7 +1,7 @@
 # 2. Tradeoffs of Existing Mechanisms
 
 The existing suite of protocol funding mechanisms have so far adequately supported the ecosystem, but come with their own tradeoffs: 
-- Typically not forward looking, eg. they are usually retroactive
+- Typically not forward-looking, eg. they are usually retroactive
 - Tend to favor projects/teams instead of individuals
 - Formed around mediating institutions
 - Do not typically give exposure to the upside of application layer
