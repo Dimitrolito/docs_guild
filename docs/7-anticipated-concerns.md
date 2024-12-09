@@ -68,7 +68,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 - Not advisable, as this would complicate inclusion decisions. The split is supposed to incentivize current and future contributors.
 
 **Will this compete with Gitcoin or other similar efforts?**
-- We feel that this mechanism is differentiated enough (ie. forward looking, core protocol focused, vested, biases towards native tokens as opposed to USD) that the overlap may appear larger than it actually is. However, there may be some donating entities that feel like they are already "doing their part" with donations to one initiative and may not feel obligated to contribute to the other. We believe that it's healthy to have a number of autonomous & differentiated funding approaches towards public goods.
+- We feel that this mechanism is differentiated enough (ie. forward-looking, core protocol focused, vested, biases towards native tokens as opposed to USD) that the overlap may appear larger than it actually is. However, there may be some donating entities that feel like they are already "doing their part" with donations to one initiative and may not feel obligated to contribute to the other. We believe that it's healthy to have a number of autonomous & differentiated funding approaches towards public goods.
 
 ## 7.3 Culture / Big Questions
 
