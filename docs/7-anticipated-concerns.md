@@ -5,7 +5,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 ## 7.1 Related to Operations
 
 **What happens in the case of stolen/exploited funds being sent to the mechanism?**
-- To the best of our knowledge this has not happened to any other public goods project or individual, but that doesn't mean it wont happen, however unlikely. While the membership will ultimately decide how to handle each scenario individually, each should be carefully considered. It might play out something like this: Contract receives illicit funds > Membership collectively decides to claim/burn the specific funds in the contract > The affected parties deploy a recovery contract with a snapshot at each exploit and restore the funds via said contract.
+- To the best of our knowledge this has not happened to any other public goods project or individual, but that doesn't mean it won't happen, however unlikely. While the membership will ultimately decide how to handle each scenario individually, each should be carefully considered. It might play out something like this: Contract receives illicit funds > Membership collectively decides to claim/burn the specific funds in the contract > The affected parties deploy a recovery contract with a snapshot at each exploit and restore the funds via said contract.
 
 **Shouldn't one-off contributions be considered for membership?**
 - Every mechanism has its limit. The Protocol Guild may meet its at the edges of contribution, where someone has meaningfully contributed to a project, but does not work on it consistently, or produces something as a one-off. This remains an open question, and might be considered for a future weighting scheme if there are no major issues.
